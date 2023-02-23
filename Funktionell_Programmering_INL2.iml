@@ -5,8 +5,8 @@
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/src/test/kotlin" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/src/test/resources" type="java-test-resource" />
-      <sourceFolder url="file://$MODULE_DIR$/src/adventOfCode/kotlin" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/adventOfCode/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/INL_2/kotlin" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/INL_2/resources" type="java-resource" />
       <sourceFolder url="file://$MODULE_DIR$/src/tomten/kotlin" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />

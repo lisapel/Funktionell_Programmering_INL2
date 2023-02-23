@@ -3,7 +3,7 @@ package adventOfCode.day1_2019
 import java.io.File
 import kotlin.math.floor
 
-const val file = "src/AdventOfCode/kotlin/Day1_2019/Input"
+const val file = "src/INL_2/kotlin/adventOfCode/day1_2019/Input"
 
 fun getList(file:String):List<Double>{
     return file.let { File(file).readLines().map { it.toDoubleOrNull()!! }.toList()}

@@ -32,6 +32,6 @@ class Tomteland {
 fun main() {
     val tomte = Tomteland()
     val list: MutableList<String> = mutableListOf()
-    println(tomte.getUnderlings("Tomten", list))
+    println(tomte.getUnderlings("Glader", list))
 
 }

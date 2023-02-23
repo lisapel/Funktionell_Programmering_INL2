@@ -2,7 +2,7 @@ package adventOfCode.day1_2018
 
 import java.io.File
 
-const val file = "src/AdventOfCode/kotlin/Day1_2018/Input"
+const val file = "src/INL_2/kotlin/adventOfCode/day1_2018/Input"
 
 fun getList(file:String): List <Int>{
     return file.let { File(file).readLines().map { it.toIntOrNull() }

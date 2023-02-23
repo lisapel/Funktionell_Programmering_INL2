@@ -3,7 +3,7 @@ package adventOfCode.day1_2022
 import java.io.File
 
 //Day 1 2022 BEFORE
-const val file = "src/AdventOfCode/kotlin/Day1_2022/Input"
+const val file = "src/INL_2/kotlin/adventOfCode/day1_2022/Input"
 
 
 fun readFileToIntList(file: String): List<List<Int>> {
